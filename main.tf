@@ -10,6 +10,7 @@ module "cart" {
   LB_RULE_PRIORITY    = 100
 }
 
+
 output "INSTANCE_IDS" {
   value = module.cart.INSTANCE_IDS
 }

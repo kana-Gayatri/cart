@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../ansible/ansible.iml" filepath="$PROJECT_DIR$/../../ansible/ansible.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cart.iml" filepath="$PROJECT_DIR$/.idea/cart.iml" />
       <module fileurl="file://$PROJECT_DIR$/../catalogue/catalogue.iml" filepath="$PROJECT_DIR$/../catalogue/catalogue.iml" />
       <module fileurl="file://$PROJECT_DIR$/../frontend/frontend.iml" filepath="$PROJECT_DIR$/../frontend/frontend.iml" />
