@@ -9,5 +9,5 @@
 // env.EX_COMP="cart"
 nodejs(
     COMPONENT                 : 'cart',
-    LABEL                     : 'master'
+    LABEL                     : 'WORKSTATION'
 )
