@@ -7,4 +7,4 @@
 
 @Library('roboshop') _
 
-nodejs()
+nodejs("cart")
