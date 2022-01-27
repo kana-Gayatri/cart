@@ -13,7 +13,7 @@ module "cart" {
 #  NEXUS_PASS          = var.NEXUS_PASS
 }
 #  LB_RULE_PRIORITY    = 104
-#}
+
 
 output "INSTANCE_IDS" {
   value = module.cart.INSTANCE_IDS
