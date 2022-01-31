@@ -7,7 +7,7 @@
 //     LABEL                     : 'WORKSTATION'
 // )
 
-nodejs-immutable(
+nodejsImmutabl(
     COMPONENT                 : 'cart',
     LABEL                     : 'WORKSTATION'
 )
