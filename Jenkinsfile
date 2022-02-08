@@ -6,7 +6,12 @@
 //     COMPONENT                 : 'cart',
 //     LABEL                     : 'WORKSTATION'
 // )
-nodejsImmutable(
+// nodejsImmutable(
+//     COMPONENT                 : 'cart',
+//     LABEL                     : 'WORKSTATION'
+// )
+
+docker(
     COMPONENT                 : 'cart',
     LABEL                     : 'WORKSTATION'
 )
